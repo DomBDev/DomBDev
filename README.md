@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 Reach me on the contact page of my github pages.
 
-https://fakebigboi.github.io/Website/index.html
+https://fakebigboi.github.io/astrodom.space/
