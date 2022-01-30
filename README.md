@@ -2,6 +2,6 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on any projects.
-- 📫 Reach me on the contact page of my github pages.
+- 📫 Reach me from the links on my website.
 
-https://fakebigboi.github.io/astrodom.space/
+https://astrodom.space
