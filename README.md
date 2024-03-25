@@ -7,7 +7,7 @@ I'm a programmer passionate about learning new things, meeting new people, and p
 I spend most of my time with Python, Flask, HTML, CSS, jQuery, and JavaScript.
 
 ## Certification
-- Responsive Design with HTML/CSS Certificate from freeCodeCamp (400 hours)
+- Responsive Design with HTML/CSS Certificate from freeCodeCamp (represents 300 hours)
 
 ## Contact
 I currently do not have a public method of contact, due to big upcoming announcements. Please check back soon for updates.
