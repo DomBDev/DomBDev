@@ -1,6 +1,6 @@
 # Dom
 
-Here you'll find part of into my journey as a passionate programmer and learner. I believe in constantly educating myself, connecting with new people, and pushing the boundaries of what I can do in the world of programming.
+Here you'll find part of my journey as a programmer and student. I believe in constantly educating myself, connecting with new people, and pushing the boundaries of what I can do in the world of programming.
 
 ## About Me
 
