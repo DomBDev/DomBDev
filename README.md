@@ -1,47 +1,70 @@
-# Dom ![](https://komarev.com/ghpvc/?username=DomBDev&color=blue)
+# Dominic Bonanni ![](https://komarev.com/ghpvc/?username=DomBDev&color=blue)
 
-Here you'll find part of my journey as a programmer and student. I believe in constantly educating myself, connecting with new people, and pushing the boundaries of what I can do in the world of programming.
+I'm a passionate Full Stack Developer with expertise in web development, database management, and cloud computing. I love building innovative solutions and exploring new technologies.
 
 ## About Me
 
-I'm Dominic, I am dedicated to expanding my knowledge and skills as a programmer. While my main focus lies in web development, I am also intrigued by machine learning, data science, and various other fields. I strive to make every project I work on a testament to my progress.
+I'm an 18-year-old developer with a strong foundation in full-stack development. My expertise spans across modern web technologies, cloud platforms, and IoT development. I'm particularly interested in machine learning, web development, IoT, 3D printing, and engineering.
 
-## Technologies
+## Core Technologies & Skills
 
-I'm well-versed in a wide range of technologies. You'll often find me utilizing Python, Flask, JavaScript, Node.js, React, HTML, Bootstrap, TailwindCSS, CSS, Nginx, SQL, and some C++ in my projects. Each of these tools enables me to create new solutions to solve any problems that I may find.
+### Programming Languages
+- Python
+- JavaScript/TypeScript
+- SQL
+- C#
+- MicroPython
+- HTML
 
-## Education
+### Frameworks & Libraries
+- React
+- Node.js
+- Flask
+- Django
+- Express
+- Bootstrap
+- Tailwind CSS
+- .NET
 
-| School/Organization                         | Course Title                                            |
-| ------------------------------------------- | ------------------------------------------------------- |
-| High School                                 | Introduction to Programming                             |
-|                                             | AP Computer Science Principles                          |
-| MIT OpenCourseWare                          | Introduction to Computer Science and Programming        |
-|                                             | Introduction to Computational Thinking and Data Science |
-|                                             | Artificial Intelligence                                 |
-| Harvard Online Learning                     | CS50's Web Programming with Python and JavaScript       |
-| FreeCodeCamp.org                            | Responsive Web Design Certification                     |
-- Beyond this, most of what I've learned has been self taught, which is why I have become resourceful in learning any information that could progress me towards my goals. I've maintained private servers, utilized various languages and libraries, and hosted websites with various tools such as Nginx, Cloudflare Security, DigitalOcean, Google Cloud Platform, AWS, and Heroku.
+### Tools & Platforms
+- Git/GitHub
+- Heroku
+- DigitalOcean
+- VS Code
+- Nginx
+- Linux/Debian
+- Docker
+- Arduino/ESP32/Raspberry Pi
+- MongoDB
+- RESTful APIs
 
-## Projects
+## Featured Projects
 
-Here are a few of my projects, most of which are older and less up to date with my current knowledge.
+### [bonannidominic.me](https://bonannidominic.me)
+Personal portfolio website built with the MERN stack and enhanced with Framer Motion animations.
+- **Tech Stack:** React, Node.js, Express, MongoDB, TailwindCSS
+- **Status:** Completed
 
-| Project       | Description                                                                                                                                                                                       |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [BonanniDominic.me](https://github.com/DomBDev/bonannidominic.me)      | My current portfolio, a MERN Stack dynamic website for showcasing my skills.                                                             |
-| [AstroDom.space](https://github.com/DomBDev/astrodom.space)            | My first portfolio, a static HTML, CSS, and JS website hosted using github pages.                                                        |
-| [PineElite.com](https://github.com/DomBDev/pineelite.com)              | A business portfolio demonstration, showcases API calls, multiplayer HTML5 game using PeerJS, and more.                                  |
-| [SimpleNFT](https://github.com/DomBDev?tab=repositories)               | An old project showcasing the ability to generate largescale NFT sets using different image layers, and how to calculate 'Rarities'      |
-| GC-Baseball                                                            | A dynamic soundboard website for the local baseball team. Utilizes Flask for back-end management.                                        |
+### AccreFi
+Finance manager with a modern tech stack.
+- **Tech Stack:** React, TailwindCSS, Axios, .NET, TypeScript
+- **Status:** Work In Progress
 
-## Ongoing/Upcoming Projects
+### Swatch Sense
+AI-powered color palette generator and management tool.
+- **Tech Stack:** React, TypeScript, TailwindCSS, OpenAI, Vitest
+- **Status:** Completed
+- **Note:** Private Project
 
-| Project       | Description                                                                                                                                                                                       |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IFX Website                     | Dynamic business portfolio and contact page for a printing and design company.                                                                                                  |
-| Personal Portfolio              | A personal portfolio to demonstrate all of my best projects and knowledge. Built using React and TailwindCSS for the front-end, and Flask and SQL for back-end and logins.      |
+## Experience
 
+**Office Assistant and Tech Support** at ImageFX Inc.
+- March 2021 - November 2024
+
+## Connect With Me
+
+I'm always open to discussing new projects or opportunities. Feel free to reach out:
+- Portfolio: [bonannidominic.me](https://bonannidominic.me)
 
 ![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomBDev&hide=contribs,prs,stars,issues&theme=radical&hide_border=true&border_radius=2)
 &nbsp;&nbsp;&nbsp;&nbsp;
