@@ -50,7 +50,7 @@ Finance manager with a modern tech stack.
 - **Tech Stack:** React, TailwindCSS, Axios, .NET, TypeScript
 - **Status:** Work In Progress
 
-### Swatch Sense
+### [SwatchSense.com](https://SwatchSense.com)
 AI-powered color palette generator and management tool.
 - **Tech Stack:** React, TypeScript, TailwindCSS, OpenAI, Vitest
 - **Status:** Completed
