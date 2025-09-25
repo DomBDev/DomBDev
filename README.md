@@ -1,10 +1,20 @@
-# Dominic Bonanni ![](https://komarev.com/ghpvc/?username=DomBDev&color=blue)
+# Dom ![](https://komarev.com/ghpvc/?username=DomBDev&color=blue)
 
-I'm a passionate Full Stack Developer with expertise in web development, database management, and cloud computing. I love building innovative solutions and exploring new technologies.
+I’m a **software engineer** building full-stack apps, exploring low level hardware projects, and constantly experimenting with 3D printing + outdoor/maker projects.  
+Currently working full-time, and improving my understanding through **side projects, open-source contributions, and continuous learning**.  
+
+---
+
+## Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, C++, PHP, SQL
+- **Frameworks & Tools:** React, Next.js, Node.js, Flask, Django  
+- **Other Interests:** IoT integrations (ESP32, Raspberry Pi), 3D Modeling, AI/ML 
+
+--- 
 
 ## About Me
 
-I'm an 18-year-old developer with a strong foundation in full-stack development. My expertise spans across modern web technologies, cloud platforms, and IoT development. I'm particularly interested in machine learning and web development.
+I'm a 19-year-old developer with a strong foundation in multiple languages. My expertise lies most heavily in back-end web development, optimization, and low level electronics projects. I'm particularly interested in machine learning.
 
 ## Core Technologies & Skills
 
@@ -14,6 +24,7 @@ I'm an 18-year-old developer with a strong foundation in full-stack development.
 - SQL
 - MicroPython
 - HTML
+- C++
 
 ### Frameworks & Libraries
 - React
@@ -21,24 +32,18 @@ I'm an 18-year-old developer with a strong foundation in full-stack development.
 - Flask
 - Django
 - Express
-- Bootstrap
 - Tailwind CSS
 
 ### Tools & Platforms
-- Git/GitHub
+- Git
 - Heroku
 - DigitalOcean
-- VS Code
+- Cloudflare
 - Nginx
 - Linux/Debian
 - Docker
 - Arduino/ESP32/Raspberry Pi
 - MongoDB
-
-## Experience
-
-**Office Assistant and Tech Support** at ImageFX Inc.
-- March 2021 - November 2024
 
 ![Dominic's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomBDev&hide=contribs,prs,stars,issues&theme=radical&hide_border=true&border_radius=2)
 &nbsp;&nbsp;&nbsp;&nbsp;
