@@ -1,6 +1,6 @@
 # Dom ![](https://komarev.com/ghpvc/?username=DomBDev&color=blue)
 
-I’m a **software engineer** building full-stack apps, exploring low level hardware projects, and constantly experimenting with 3D printing + outdoor/maker projects.  
+I’m a **software engineer** building full-stack apps, and working on low level hardware projects.
 Currently working full-time, and improving my understanding through **side projects, open-source contributions, and continuous learning**.  
 
 ---
