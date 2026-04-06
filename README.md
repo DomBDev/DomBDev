@@ -6,7 +6,7 @@ I work full time in a non tech role and build software on the side. Most of my r
 
 ## What I'm building
 
-**[ExecLedger](https://github.com/DomBDev/ExecLedger)** is a pipeline runner backed by SQLite. You define ordered steps (shell commands or Python functions), it tracks their status, and you can resume from wherever things failed. It started as a simple job runner, but I restructured it into a pipeline model when that made more sense. Still changing, right now I'm working toward output passing between steps and eventually background execution.
+**[ExecLedger](https://github.com/DomBDev/exec-ledger)** is a pipeline runner backed by SQLite. You define ordered steps (shell commands or Python functions), it tracks their status, and you can resume from wherever things failed. It started as a simple job runner, but I restructured it into a pipeline model when that made more sense. Still changing, right now I'm working toward output passing between steps and eventually background execution.
 
 I'm also working on a few things privately: a couple of lower level C++ projects, some personal APIs and automation, and a realtime multiplayer game for hands on networking experience. More of it will go public as it gets there.
 
