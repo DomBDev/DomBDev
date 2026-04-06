@@ -1,47 +1,29 @@
 # Dom
 
-I build backend and systems oriented software, and handle the frontend when a project needs a clean interface on top of it.
+I'm a self taught developer who's been writing code for about six years. I started with Discord bots in Python and JavaScript and gradually moved toward backend work: APIs, data persistence, CLI tools, and automation.
 
-Most of what I’m building right now is private, still in progress, or not polished enough to publish yet. The public side of this profile is mainly a reflection of the kind of work I like doing: storage and persistence, job execution, APIs, automation, developer tooling, and web applications.
+I work full time in a non tech role and build software on the side. Most of my repos are still private, either because they're unfinished or because I haven't cleaned them up enough to stand behind publicly yet. What's here represents the stuff I'm most comfortable with.
 
-## What I focus on
+## What I'm building
 
-- backend systems and internal tooling
-- data models, persistence, and API design
-- reliability, debugging, and maintainable code
-- responsive web development when the project needs an interface
+**[ExecLedger](https://github.com/DomBDev/ExecLedger)** is a pipeline runner backed by SQLite. You define ordered steps (shell commands or Python functions), it tracks their status, and you can resume from wherever things failed. It started as a simple job runner, but I restructured it into a pipeline model when that made more sense. Still changing, right now I'm working toward output passing between steps and eventually background execution.
+
+I'm also working on a few things privately: a couple of lower level C++ projects, some personal APIs and automation, and a realtime multiplayer game for hands on networking experience. More of it will go public as it gets there.
 
 ## Stack
 
-**Languages**
-Python, TypeScript, JavaScript, SQL, C++
+Python and TypeScript are what I use most. I've also spent time with JavaScript, SQL, and some C++. On the backend I usually work with Node.js, Flask, and SQLite. For frontend work I use React and Next.js. Comfortable enough with Git, Docker, and Linux to get things running, still learning the deeper parts of all of them.
 
-**Backend / Systems**
-Node.js, Express, Flask, SQLite, Nginx, Linux, Docker
+## Where I'm at
 
-**Frontend**
-React, Next.js, Tailwind CSS
+I'm strongest at taking a practical problem and building something that works. A tool, an API, a script that automates something tedious. I have decent instincts for how to structure code and I care about keeping things readable and maintainable.
 
-## How I like to build
+Where I'm still growing: CS fundamentals (algorithms, data structures beyond the basics, complexity analysis), deeper systems knowledge (concurrency, networking, production infrastructure), and getting better at explaining technical decisions clearly and formally. Not just to friends, but in a professional context.
 
-I care more about clear architecture, good tradeoffs, and software that stays understandable and maintainable as it grows.
+I'm learning C++ now (with some C mixed in), and separately working through computing from the ground up on my own time: binary, logic gates, CPU architecture, assembly, all the way up to modern languages. I want to understand what's actually happening below the code I write as deeply as possible.
 
-A lot of my recent work has been around:
-- backend workflows and job style execution
-- tooling and automation
-- system design that is small and explicit
-- full stack apps where the backend does the heavy lifting
+I've done coursework from MIT, CMU, and Harvard's open programs, and I have a freeCodeCamp certification, but most of what I know comes from building things and figuring out why they broke.
 
-## Current direction
+## What I'm looking for
 
-Right now I’m spending most of my time getting better at backend and lower level systems work while staying proficient with modern web frameworks and gradually making more of my work public.
-
-That usually means building things that are:
-- practical
-- inspectable
-- easy to run locally
-- boring in a good way once they’re working
-
-## Notes
-
-I usually keep projects private until they reach a baseline I’m comfortable standing behind. As more of that work becomes publishable, this profile will get more concrete.
+I'm interested in backend or full stack roles where I can work on real problems: APIs, tooling, data, automation. Somewhere I'll keep learning. I pick things up quickly and I'm not afraid of the parts I don't know yet.
